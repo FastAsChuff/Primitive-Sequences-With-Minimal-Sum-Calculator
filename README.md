@@ -5,7 +5,7 @@ Full list found to date with this program.
 
  n sum
 
- 1   2 [2]
+ 1   1 [1]
 
  2   5 [2, 3]
 
