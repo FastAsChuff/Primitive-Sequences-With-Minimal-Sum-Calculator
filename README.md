@@ -1,7 +1,7 @@
 # Primitive-Sequences-With-Minimal-Sum-Calculator
 Finds Primitive Sequences  With Lowest Sequence Sum
 
-Full list found to date with this program.
+Full list found to date with the Python program.
 
  n sum
 
@@ -34,3 +34,5 @@ Full list found to date with this program.
 14 216 [4, 6, 9, 10, 11, 13, 14, 15, 17, 19, 21, 23, 25, 29]
  
 15 247 [4, 6, 9, 10, 11, 13, 14, 15, 17, 19, 21, 23, 25, 29, 31]
+
+I wrote a more powerful version of the algorithm in a c program. See primseqs.txt for its results.
